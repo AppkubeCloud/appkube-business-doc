@@ -100,5 +100,5 @@ Top 10 easy transformation
 - Dev & OPS -> DevOps
 - Email -> Office 365
 
-Appkube Base , Optimizer, Transformer 
+1. Appkube Base 2. Optimizer 3. Transformer address the above 3 points respectively
 
