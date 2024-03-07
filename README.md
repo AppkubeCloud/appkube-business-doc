@@ -52,3 +52,53 @@ Enterprises looking forwards to
 -   Reduce Capex/OpEx of cloud expense
 -   Become more agile and bring reliability, flexibility in their business
 
+What are the key components of this product? 
+
+1. Appkube Base 
+(Discovery + Tolopology + BI Mapping + SRE + Reports + Alert + Service Desk + Automation )
+
+2. Optimizer ( FinOps + AI Ops)
+
+3. Transformer ( Appblocks + Catalogues + Generator )
+   
+4. Solution ( DRS + IOT + DataLakes)
+   
+5. Base Extension ( DevOps / SecOps )
+
+Please explain the cloud optimization use case:
+
+It's done in 3 steps 
+
+1. Charge Back 
+( Orphaned Resources / Actual Vs Non Actual Ratio improvement (30%) / Non performing business liabilities)
+   
+2. AI/ ML based Cloud Native Optimization 
+    1. Right Sizing 
+    2. Autoscaling 
+    3. Reserve Instance 
+    4. Spot Instances 
+    5. Instance Scheduling 
+    6. Cluster Autoscaler
+   
+3. Transformation through WAFR
+   (Container/ FAAS / Object Storage / CloudNative)
+
+Top 10 easy transformation
+
+- Webserver workloads -> S3/CDN.
+- Fileservers workloads -> CDN + Edge Lambda
+- Analytics -> Blob + Cloud Native
+- Analytics-> S3+kube
+- Storage Consolidation - Blob or Object / Git / DB
+- Batch -> Lambda + Kube
+- Page Content à Github
+- Business Logic -> Kube
+- ERP -> Build Vs Buy (S3+kube)
+- Databases -> Serverless in kube / cloud
+- Monolith App -> Microservices
+- Bigdata/ ETL -> Fast Data
+- Dev & OPS -> DevOps
+- Email -> Office 365
+
+Appkube Base , Optimizer, Transformer 
+
